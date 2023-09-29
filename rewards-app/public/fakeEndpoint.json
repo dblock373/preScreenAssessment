@@ -1,0 +1,18 @@
+[
+    {
+      "customerId": 1,
+      "month": "January",
+      "transactions": [120, 50, 75]
+    },
+    {
+      "customerId": 2,
+      "month": "January",
+      "transactions": [60, 30]
+    },
+    {
+      "customerId": 1,
+      "month": "February",
+      "transactions": [80, 90]
+    }
+  ]
+  
